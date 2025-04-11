@@ -33,7 +33,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
+
 ## Contact
 
-For questions or suggestions, please open an issue on the [GitHub repository](https://github.com/shreyasnayak/QCurl.git).
+If you have any questions or would like to collaborate, feel free to reach out:  
+📬 [LinkedIn – Shreyas Nayak](https://linkedin.com/in/shreyas-nayak-1826a710a)
 
